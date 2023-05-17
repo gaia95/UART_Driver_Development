@@ -1,5 +1,3 @@
-# UART_Driver_Development
-
 # UART-baserad LED-styrning med STM32
 
 Detta projekt syftar till att implementera en UART-kommunikationsprotokoll på en STM32-mikrokontrollerplattform för att styra LED-lampor. 
